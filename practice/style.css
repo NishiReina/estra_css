@@ -1,0 +1,11 @@
+a{
+    width: 200px;
+    color: white;
+    background: linear-gradient(90deg, #ff5800, #8b00be);
+    box-shadow: 0 5px 0 rgba(255, 0, 0, 0.2);
+    border-radius: 30px;
+    padding: 10px 0;
+    text-align: center;
+    margin: 100px auto 0;
+    display:block;
+}
